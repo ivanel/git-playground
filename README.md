@@ -13,3 +13,9 @@ Someone else has added another new line!
 this is a "new line"
 
 again!!... another line from command line
+
+This will advance in master branch
+
+This is the line my feature branch.
+
+This is another line in the README from the feature branch
