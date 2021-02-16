@@ -15,3 +15,5 @@ this is a "NEW line"
 again!!... another line from command line
 
 This will advance in master branch
+
+This is the line my feature branch.
